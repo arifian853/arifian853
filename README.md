@@ -9,19 +9,6 @@
 - I love CSS , but I also hate CSS , especially CSS Grid. 	:smile:
 - Currently lived in Indonesia. :earth_asia: :indonesia:
 
-## Skills :grin:
-- Web Programming skill :globe_with_meridians: : 
-   - HTML
-   - CSS
-   - JavaScript
-   - Bootstrap
-   - Angular (a bit)
-   - Flask (a bit)
- - Programming skill :computer: : 
-   - C++
-   - Python
-   - Java (a bit)
-
 ## Connected with me :wink:
 - [Personal webpage](https://arifian853.github.io)
 - [Instagram](https://www.instagram.com/arifiansaputra_/)
