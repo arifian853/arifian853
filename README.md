@@ -5,7 +5,7 @@
 
 ## 	 About me :thinking:
 - I'm a college student at Universitas Maritim Raja Ali Haji , Informathics Engineering student. 	:point_left: 	:man_student:
-- Currently mastering web developing , but next may be database and mobile development. 	:point_left: :technologist:
+- Currently trying to mastering web developing , but next may be database and mobile development. 	:point_left: :technologist:
 - I love CSS , but I also hate CSS , especially CSS Grid. 	:smile:
 - Currently lived in Indonesia. :earth_asia: :indonesia:
 
