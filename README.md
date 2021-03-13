@@ -1,7 +1,7 @@
 ## Hello ! I'm Arifian , nice to meet you. 	:smile:
 ## Welcome to my github account :raising_hand_man:
 
-* Here , you can see all my works that have been through my journey to become developer.*
+* ### Here , you can see all my works that have been through my journey to become developer.*
 
 ## 	 About me 
 - I'm a college student at Universitas Maritim Raja Ali Haji , Informathics Engineering student. 	:point_left: 	:man_student:
