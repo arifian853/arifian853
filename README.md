@@ -12,4 +12,6 @@
 - [Twitter](https://twitter.com/ArifianSaputra1)
 - [LinkedIn](https://www.linkedin.com/in/arifian-saputra-08135a178/)
 
-https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=arifian853&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px
+#### Github Stats
+<img src="https://github-readme-stats.vercel.app/api?username={arifian853}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
