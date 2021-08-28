@@ -17,5 +17,5 @@
 
 
 #### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arifian853&theme=dark" width="50%" align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arifian853&theme=dark" width="50%" align="right">
 
