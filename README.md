@@ -6,7 +6,7 @@
 - I love CSS , but I also hate CSS , especially CSS Grid. 	:smile:
 - Currently living in Indonesia. :earth_asia: :indonesia:
 
-## Connected with me :wink:
+## Connected with me 
 - [Personal webpage](https://arifian853.github.io)
 - [Instagram](https://www.instagram.com/arifiansaputra_/)
 - [Twitter](https://twitter.com/ArifianSaputra1)
