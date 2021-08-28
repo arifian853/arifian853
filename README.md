@@ -12,12 +12,12 @@
 - [Twitter](https://twitter.com/ArifianSaputra1)
 - [LinkedIn](https://www.linkedin.com/in/arifian-saputra-08135a178/)
 
-#### Github Stats
+## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=arifian853&show_icons=true&theme=tokyonight" alt="github stats" width="50%" align="left"/>
 
 
-#### Github Streaks
+## Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifian853&theme=dark" width="50%" align="right">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifian853)](https://github.com/anuraghazra/github-readme-stats)
+## [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifian853)](https://github.com/anuraghazra/github-readme-stats)
 
