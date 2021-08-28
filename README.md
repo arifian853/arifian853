@@ -12,7 +12,7 @@
 - [Twitter](https://twitter.com/ArifianSaputra1)
 - [LinkedIn](https://www.linkedin.com/in/arifian-saputra-08135a178/)
 
-## Github Stats
+## Github Stats\
 <img src="https://github-readme-stats.vercel.app/api?username=arifian853&show_icons=true&theme=tokyonight" alt="github stats" width="50%" align="left"/>\
 
 
