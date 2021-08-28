@@ -1,8 +1,8 @@
 ## Hello ! I'm Arifian , nice to meet you. 	:smile:
 
 ## 	 About me 
-- I'm a college student at Universitas Maritim Raja Ali Haji , Informathics Engineering major.	:man_student:
-- Currently trying to mastering web developing , but next may be database and mobile app development. :technologist:
+- I'm a college student at Universitas Maritim Raja Ali Haji , Informathics Engineering major.
+- Currently trying to mastering web developing , but next may be database and mobile app development. 
 - I love CSS , but I also hate CSS , especially CSS Grid. 
 - Currently living in Indonesia. :indonesia:
 
