@@ -13,5 +13,5 @@
 - [LinkedIn](https://www.linkedin.com/in/arifian-saputra-08135a178/)
 
 #### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={arifian853}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username={@arifian853}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
