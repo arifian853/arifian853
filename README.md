@@ -18,7 +18,3 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifian853&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=arifian853&skills=HTML, CSS, JavaScript, Pythom, Java, C%2B%2B,C%23,SCSS,Svelte&width=820"
-/>
-
