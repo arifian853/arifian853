@@ -4,7 +4,7 @@
 - I'm a college student at Universitas Maritim Raja Ali Haji , Informathics Engineering major.	:man_student:
 - Currently trying to mastering web developing , but next may be database and mobile app development. :technologist:
 - I love CSS , but I also hate CSS , especially CSS Grid. 
-- Currently living in Indonesia. :earth_asia: :indonesia:
+- Currently living in Indonesia. :indonesia:
 
 ## Connected with me 
 - [Personal webpage](https://arifian853.github.io)
