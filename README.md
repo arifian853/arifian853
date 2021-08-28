@@ -17,7 +17,7 @@
 
 
 ## Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arifian853&theme=dark" width="50%" align="right">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=arifian853&theme=dark" width="50%" align="left">
 
-## [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifian853)](https://github.com/anuraghazra/github-readme-stats)
+## [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifian853&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
