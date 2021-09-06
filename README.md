@@ -1,4 +1,4 @@
-## Hello ! I'm Arifian , nice to meet you. 	:smile:
+## Hello ! Nice to meet you.
 
 ## 	 About me 
 - I'm a college student at Universitas Maritim Raja Ali Haji , Informathics Engineering major.
