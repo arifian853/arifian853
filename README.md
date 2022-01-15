@@ -14,7 +14,7 @@
 
 ## Languages I used
 
-<img alt="" src="https://img.shields.io/badge/-HTML-e36120?logo=html&logoColor=black&style=for-the-badge">
+<img alt="HTML" src="https://img.shields.io/badge/-HTML-e36120?logo=html5&logoColor=black&style=for-the-badge">
 
 
 
