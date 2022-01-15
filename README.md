@@ -16,7 +16,7 @@
 
 <img alt="HTML" src="https://img.shields.io/badge/-HTML-e36120?logo=html5&logoColor=black&style=for-the-badge">
 <img alt="CSS" src="https://img.shields.io/badge/-CSS-20b2e3?logo=CSS3&logoColor=black&style=for-the-badge">
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7f700?logo=js&logoColor=black&style=for-the-badge">
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
 
 
 ## Github Stats
