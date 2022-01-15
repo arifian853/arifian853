@@ -14,7 +14,7 @@
 
 ## Programming Language
 
-- <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+- <img alt="C++" src="https://img.shields.io/static/v1?message=css3&logo=css3&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic">
 - 
 
 
