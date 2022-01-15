@@ -12,10 +12,10 @@
 - [Twitter](https://twitter.com/ArifianSaputra1)
 - [LinkedIn](https://www.linkedin.com/in/arifian-saputra-08135a178/)
 
-## Programming Language
+## Languages I used
 
-- <img alt="" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
-- 
+<img alt="" src="https://img.shields.io/badge/-HTML-e36120?logo=html&logoColor=black&style=for-the-badge">
+
 
 
 ## Github Stats
