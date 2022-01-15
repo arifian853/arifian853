@@ -1,4 +1,5 @@
-## Hello ! Nice to meet you.
+<h3 align="center">  Hello ! </h3>
+
 
 ## 	 About me 
 - I'm a college student at Raja Ali Haji Maritime University, Informathics Engineering.
