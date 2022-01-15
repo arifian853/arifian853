@@ -1,10 +1,10 @@
-<h3 align="center">  Hello ! </h3>
+<h1 align="center">  Hello ! </h1>
 
-
+<p align="center"> <a href="https://img.shields.io/badge/About-Myself-yellowgreen"></a> </p>
 ## 	 About me 
 - I'm a college student at Raja Ali Haji Maritime University, Informathics Engineering.
 - Currently trying to increase web developer skills.  
-- Currently living in Indonesia. :indonesia:
+- Currently living in Indonesia.
 
 ## Connected with me 
 - [Personal webpage](https://arifian853.github.io)
