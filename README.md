@@ -1,7 +1,6 @@
 <h1 align="center">  Hello ! </h1>
 
-<p align="center"> <a href="https://img.shields.io/badge/About-Myself-yellowgreen"></a> </p>
-<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
+<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/About-Myself-yellowgreen"></a>
 ## 	 About me 
 - I'm a college student at Raja Ali Haji Maritime University, Informathics Engineering.
 - Currently trying to increase web developer skills.  
