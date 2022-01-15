@@ -14,7 +14,7 @@
 
 ## Programming Language
 
-- <img alt="" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square">
+- <img alt="" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge">
 - 
 
 
