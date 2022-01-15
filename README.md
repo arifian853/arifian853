@@ -6,11 +6,16 @@
 - Currently trying to increase web developer skills.  
 - Currently living in Indonesia.
 
-## Connected with me 
-- [Personal webpage](https://arifian853.github.io)
+## <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Keep%20-Connected-blue"></a>
+- [Personal webpage](https://arifian853.github.io) 
 - [Instagram](https://www.instagram.com/arifiansaputra_/)
 - [Twitter](https://twitter.com/ArifianSaputra1)
 - [LinkedIn](https://www.linkedin.com/in/arifian-saputra-08135a178/)
+
+## 
+
+- <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=arifian853&show_icons=true&theme=tokyonight" alt="github stats" width="50%" align="left"/>
