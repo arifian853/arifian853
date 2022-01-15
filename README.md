@@ -1,7 +1,7 @@
 <h1 align="center">  Hello ! </h1>
 
-<a href="#"><img alt="Arduino" src="https://img.shields.io/badge/About-Myself-yellowgreen"></a>
-## 	 About me 
+
+## 	 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/About-Myself-brightgreen"></a>
 - I'm a college student at Raja Ali Haji Maritime University, Informathics Engineering.
 - Currently trying to increase web developer skills.  
 - Currently living in Indonesia.
