@@ -1,20 +1,21 @@
 <h1 align="center">  Hello ! </h1>
 
 
-## 	 <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/About-Myself-brightgreen"></a>
+## 	 About me
 - I'm a college student at Raja Ali Haji Maritime University, Informathics Engineering.
 - Currently trying to increase web developer skills.  
 - Currently living in Indonesia.
 
-## <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/Keep%20-Connected-blue"></a>
+## Keep Connected
 - [Personal webpage](https://arifian853.github.io) 
 - [Instagram](https://www.instagram.com/arifiansaputra_/)
 - [Twitter](https://twitter.com/ArifianSaputra1)
 - [LinkedIn](https://www.linkedin.com/in/arifian-saputra-08135a178/)
 
-## 
+## Programming Language
 
 - <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+- 
 
 
 ## Github Stats
