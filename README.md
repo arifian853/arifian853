@@ -19,7 +19,7 @@
 
 ## Frameworks and Technologies I used
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=black&style=for-the-badge"> <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black&style=for-the-badge"> 
-<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=black&style=for-the-badge"> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-#47A248?logo=MongoDB&logoColor=black&style=for-the-badge">
+<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=black&style=for-the-badge"> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=black&style=for-the-badge">
 
 
 ## Github Stats
