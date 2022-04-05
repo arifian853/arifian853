@@ -4,6 +4,7 @@
 ## 	 About me
 - I'm a college student at Raja Ali Haji Maritime University, Informathics Engineering.
 - Currently trying to increase web developer skills and some backend like NodeJS.
+- But most importantly I keep doing my college as usual.
 - Currently living in Indonesia.
 
 ## Keep Connected
