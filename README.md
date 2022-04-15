@@ -9,9 +9,12 @@
 
 ## Keep Connected
 - [Personal webpage](https://arifian853.github.io) 
+- [Facebook](https://www.facebook.com/arifian.syaputra.9/)
 - [Instagram](https://www.instagram.com/arifiansaputra_/)
 - [Twitter](https://twitter.com/ArifianSaputra1)
 - [LinkedIn](https://www.linkedin.com/in/arifian-saputra-08135a178/)
+- [GitLab](https://gitlab.com/2001020029)
+- [StackOverflow](https://stackoverflow.com/users/13294082/arifian-saputra)
 
 ## Languages I used
 
