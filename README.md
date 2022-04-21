@@ -8,26 +8,46 @@
 - Currently living in Indonesia.
 
 ## Keep Connected
+<a href="https://www.github.com/arifian853" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/arifian853?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p align="left"> <a href="https://discord.com/users/AutumnNymph#9288" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/arifian.syaputra.9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/arifian853" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/arifiansaputra_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arifian-saputra-08135a178" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13294082/arifian-saputra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ArifianSaputra1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 - 🖥️  See my portfolio at [My Personal Page](http://arifian853.github.io) 
-- [Facebook](https://www.facebook.com/arifian.syaputra.9/)
-- [Instagram](https://www.instagram.com/arifiansaputra_/)
-- [Twitter](https://twitter.com/ArifianSaputra1)
-- [LinkedIn](https://www.linkedin.com/in/arifian-saputra-08135a178/)
 - [GitLab](https://gitlab.com/2001020029)
-- [StackOverflow](https://stackoverflow.com/users/13294082/arifian-saputra)
 
-## Languages I used
 
-<img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=black&style=for-the-badge"> <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=black&style=for-the-badge"> <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
-<img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=black&style=for-the-badge"> <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=for-the-badge"> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=black&style=for-the-badge">
+## Core Languages I have used before
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+</p>
 
-## Frameworks and Technologies I used
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=black&style=for-the-badge"> <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-2596BE?logo=tailwindcss&logoColor=black&style=for-the-badge"> <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=black&style=for-the-badge"> <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-339933?logo=express&logoColor=black&style=for-the-badge"> <img alt="ReactJS" src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=black&style=for-the-badge"> <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=black&style=for-the-badge"> 
+
+## Front-End Technologies
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+</p>
+
+## Back-End Technologies
+<p align="left">
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+</p>
 
 
 ## Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=arifian853&show_icons=true&theme=tokyonight" alt="github stats" width="50%" align="left"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifian853&theme=dark" width="50%" align="left">
+<a href="http://www.github.com/arifian853"><img src="https://activity-graph.herokuapp.com/graph?username=arifian853&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifian853&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/arifian853" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifian853&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
