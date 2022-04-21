@@ -8,7 +8,7 @@
 - Currently living in Indonesia.
 
 ## Keep Connected
-- * 🖥️  See my portfolio at [My Personal Page](http://arifian853.github.io) 
+- 🖥️  See my portfolio at [My Personal Page](http://arifian853.github.io) 
 - [Facebook](https://www.facebook.com/arifian.syaputra.9/)
 - [Instagram](https://www.instagram.com/arifiansaputra_/)
 - [Twitter](https://twitter.com/ArifianSaputra1)
