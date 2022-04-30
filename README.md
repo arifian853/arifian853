@@ -2,7 +2,7 @@
 
 
 ## 	 About me
-- I'm a college student at Raja Ali Haji Maritime University, Informatics Engineering.
+- I'm a college student at [Raja Ali Haji Maritime University](https://umrah.ac.id/), Informatics Engineering.
 - Currently trying to increase web developer skills and some backend like NodeJS.
 - But most importantly I keep doing my college as usual.
 - Currently living in Indonesia.
