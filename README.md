@@ -2,14 +2,10 @@
 
 
 ## 	 About me
-- I'm a college student at [Raja Ali Haji Maritime University](https://umrah.ac.id/), Informatics Engineering.
-- Currently focus on being a Full Stack Web Developer
-- But most importantly I keep doing my college as usual.
-- Currently living in Indonesia.
-- 🖥️  See my portfolio at [My Personal Page](http://arifian853.github.io)
-- [GitLab Account](https://gitlab.com/2001020029)
+- I'm a Informatics Engineering student at [Raja Ali Haji Maritime University](https://umrah.ac.id/).
+- Junior Front - End Web Developer. Trying to be Full - Stack.
 
-## Keep Connected
+## Find me at : 
 <a href="https://www.github.com/arifian853" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/arifian853?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 <p align="left"> <a href="https://discord.com/users/AutumnNymph#9288" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/arifian.syaputra.9" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/arifian853" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/arifiansaputra_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arifian-saputra-08135a178" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13294082/arifian-saputra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ArifianSaputra0" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
