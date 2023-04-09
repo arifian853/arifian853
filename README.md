@@ -2,7 +2,7 @@
 
 
 ## 	 About me
-- I'm a Informatics Engineering student at [Raja Ali Haji Maritime University](https://umrah.ac.id/).
+- Informatics Engineering student at [Raja Ali Haji Maritime University](https://umrah.ac.id/).
 - Junior Front - End Web Developer. Trying to be Full - Stack.
 
 ## Find me at : 
