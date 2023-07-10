@@ -1,9 +1,10 @@
 <h1 align="center">  Hello World ! </h1>
 
 
-## 	 About me
+## 	Introduction
 - Informatics Engineering student at [Raja Ali Haji Maritime University](https://umrah.ac.id/).
-- Junior Front - End Web Developer. Trying to be Full - Stack.
+- Front - End Web Developer | RHCSA.
+- Goal : A good System Administrator and being a Full - Stack Developer (Web & Mobile)
 
 ## Find me at : 
 <a href="https://www.github.com/arifian853" target="_blank" rel="noreferrer"><img
