@@ -4,7 +4,7 @@
 ## 	Introduction
 - Informatics Engineering student at [Raja Ali Haji Maritime University](https://umrah.ac.id/).
 - Front - End Web Developer | RHCSA.
-- Goal : A good System Administrator and being a Full - Stack Developer (Web & Mobile)
+- Goal : A good System Administrator, a good instructor and being a Full - Stack Developer.
 
 ## Find me at : 
 <a href="https://www.github.com/arifian853" target="_blank" rel="noreferrer"><img
