@@ -1,7 +1,7 @@
 <h1 align="center">  Hello World! </h1>
 <h5 align="center">  Welcome to my GitHub account, a place for all my works is here. </h5>
 
-
+<img src="./banner.png"  alt="Profile Banner"  />
 
 ## 	Occupation
 - Front - End Web Developer | Mentor of IBM Academy Advance AI @ [Infinite Learning](https://infinitelearning.id/) | [RHCSA](https://www.credly.com/badges/884a9063-1fa9-4371-9875-eb4db52fc428/public_url) | RHCI
