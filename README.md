@@ -4,7 +4,7 @@
 <img src="./banner.png"  alt="Profile Banner"  />
 
 ## 	What am I
-- Currenlty stay as a Front - End Web Developer with a bit of Back - End knowledge.
+- Currently, I am a Front-End Web Developer with a bit of Back-End knowledge.
 - A Mentor of IBM Academy Advance AI @ [Infinite Learning](https://infinitelearning.id/)
 - A Linux Certified System Administrator ([RHCSA](https://www.credly.com/badges/884a9063-1fa9-4371-9875-eb4db52fc428/public_url))
 - Also an RHCI certified for mentoring RHCSA modules.
