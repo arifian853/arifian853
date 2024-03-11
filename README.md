@@ -1,5 +1,5 @@
 <h1 align="center">  Hello World! </h1>
-<h5 align="center">  Welcome to my GitHub account, a place for all my works is here. </h5>
+<h2 align="center">  Welcome to my GitHub account, a place for all my works is here. </h2>
 
 <img src="./banner.png"  alt="Profile Banner"  />
 
