@@ -6,9 +6,8 @@
 ## 	Who am I : 
 - Currently as a side hobby, I am a Front-End Web Developer with a bit of Back-End knowledge.
 - A Mentor of IBM Academy Advance AI Program @ [Infinite Learning](https://infinitelearning.id/) as my Full - Time job.
-- A Linux Certified System Administrator ([RHCSA](https://www.credly.com/badges/884a9063-1fa9-4371-9875-eb4db52fc428/public_url))
-- Also an RHCI certified for mentoring RHCSA modules.
-- Informatics Engineering student at [Raja Ali Haji Maritime University](https://umrah.ac.id/)
+- A RedHat Certified System Administrator ([RHCSA](https://www.credly.com/badges/884a9063-1fa9-4371-9875-eb4db52fc428/public_url))
+- Final-Year Informatics Engineering student at [Raja Ali Haji Maritime University](https://umrah.ac.id/)
 - Currently, I am learning about Artificial Intelligence - related topics such as Machine Learning, Deep Learning, Generative AI.
 - I'm also learning about AI tools/library like **Jupyter Notebook, Google Colab, TensorFlow, Keras, etc.**
 - In the other hands, I'm also about to continue learning about Full Stack Development, such as **BunJS, Flutter, VueJS, NextJS, etc.**
