@@ -4,8 +4,8 @@
 <img src="./banner.png"  alt="Profile Banner"  />
 
 ## 	Who am I : 
-- Currently, I am a Front-End Web Developer with a bit of Back-End knowledge.
-- A Mentor of IBM Academy Advance AI @ [Infinite Learning](https://infinitelearning.id/)
+- Currently as a side hobby, I am a Front-End Web Developer with a bit of Back-End knowledge.
+- A Mentor of IBM Academy Advance AI Program @ [Infinite Learning](https://infinitelearning.id/) as my Full - Time job.
 - A Linux Certified System Administrator ([RHCSA](https://www.credly.com/badges/884a9063-1fa9-4371-9875-eb4db52fc428/public_url))
 - Also an RHCI certified for mentoring RHCSA modules.
 - Informatics Engineering student at [Raja Ali Haji Maritime University](https://umrah.ac.id/)
