@@ -1,4 +1,4 @@
-<img src="./banner.png"  alt="Profile Banner"  />
+<img src="banner.png"  alt="Profile Banner"  />
 
 ## Hi! I'm Arifian
 
