@@ -1,15 +1,18 @@
 <img src="banner.png"  alt="Profile Banner"  />
 
-<h3 align="center">About</h3>
+<h2 align="center">About</h2>
+
 <p align="center">
-  Hello! My name is **Arifian** I am an undergraduate student of Informatics Engineering/Computer Science at Universitas Maritim Raja Ali Haji, Tanjungpinang, Riau Island.
-
-I have skills in Full Stack Web Development with React, NodeJS, and Flask, as well as AI development with Keras, TensorFlow, and Python. Currently, I am an Advance AI mentor at IBM Academy @ Infinite Learning.
-
-Additionally, I am a Certified Linux Administrator with RHEL (RHCSA) and have served as a Certified Instructor for RedHat at IBM Academy @ Infinite Learning, teaching and mentoring in advanced Linux administration and other technical skills.
+  Hello! My name is <b>Arifian</b>, I am an undergraduate student of Informatics Engineering/Computer Science at Universitas Maritim Raja Ali Haji, Tanjungpinang, Riau Island.
+</p>
+<p align="center">
+  I have skills in Full Stack Web Development with React, NodeJS, and Flask, as well as AI development with Keras, TensorFlow, and Python. Currently, I am an Advance AI mentor at IBM Academy @ Infinite Learning.
+</p>
+<p align="center">
+  Additionally, I am a Certified Linux Administrator with RHEL (RHCSA) and have served as a Certified Instructor for RedHat at IBM Academy @ Infinite Learning, teaching and mentoring in advanced Linux administration and other technical skills.
 </p>
 
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -36,7 +39,7 @@ Additionally, I am a Certified Linux Administrator with RHEL (RHCSA) and have se
 </p>
 
 
-<h3 align="center">Social</h3>
+<h2 align="center">Social</h2>
 
 <p align="center">
   <a href="https://www.github.com/arifian853" target="_blank" rel="noreferrer"><img
@@ -56,8 +59,10 @@ src="https://img.shields.io/github/followers/arifian853?logo=github&style=for-th
   <a href="https://www.linkedin.com/in/arifian-saputra-08135a178" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</p>
+<p align="center">
   <a href="https://www.facebook.com/arifian.syaputra.9" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white" alt="Facebook Gaming">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="http://www.instagram.com/arifiansaputra_" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
@@ -67,7 +72,7 @@ src="https://img.shields.io/github/followers/arifian853?logo=github&style=for-th
   </a>
 </p>
 
-<h3 align="center">GitHub Stats</h3>
+<h2 align="center">GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arifian853&show_icons=true&theme=tokyonight" alt="github stats" width="50%" align="left"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifian853&theme=dark" width="50%" align="left">
@@ -76,4 +81,4 @@ src="https://img.shields.io/github/followers/arifian853?logo=github&style=for-th
   <a href="https://github.com/arifian853" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifian853&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </p>
 
-<h5 align="center">Thanks for visiting!</h5>
+<h3 align="center">Thanks for visiting!</h3>
