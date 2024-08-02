@@ -9,7 +9,7 @@
   I have skills in Full Stack Web Development with React, NodeJS, and Flask, as well as AI development with Keras, TensorFlow, and Python. Currently, I am an Advance AI mentor at IBM Academy @ Infinite Learning.
 </p>
 <p align="center">
-  Additionally, I am a Certified Linux Administrator with RHEL (RHCSA) and have served as a Certified Instructor for RedHat at IBM Academy @ Infinite Learning, teaching and mentoring in advanced Linux administration and other technical skills.
+  Additionally, I am a Certified Linux Administrator with RHEL (RHCSA) and was served as a Certified Instructor for RedHat at IBM Academy @ Infinite Learning, teaching and mentoring in advanced Linux administration and other technical skills before my current position.
 </p>
 
 <h2 align="center">Tech Stack</h2>
