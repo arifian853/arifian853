@@ -2,13 +2,13 @@
 
 <h2 align="center">About</h2>
 
-<p align="center">
+<p align="left">
   Hello! My name is <b>Arifian</b>, I am an undergraduate student of Informatics Engineering/Computer Science at Universitas Maritim Raja Ali Haji, Tanjungpinang, Riau Island.
 </p>
-<p align="center">
+<p align="left">
   I have skills in Full Stack Web Development with React, NodeJS, and Flask, as well as AI development with Keras, TensorFlow, and Python. Currently, I am an Advance AI mentor at IBM Academy @ Infinite Learning.
 </p>
-<p align="center">
+<p align="left">
   Additionally, I am a Certified Linux Administrator with RHEL (RHCSA) and was served as a Certified Instructor for RedHat at IBM Academy @ Infinite Learning, teaching and mentoring in advanced Linux administration and other technical skills before my current position.
 </p>
 
