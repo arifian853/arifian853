@@ -12,7 +12,7 @@
   - Frameworks: Keras, TensorFlow
   - Language: Python
 
-- 🎓 Currently serving as a mentor of **[IBM Academy: Advanced AI](https://github.com/ibmacademy-aai)** mentor @ **[Infinite Learning](https://infinitelearning.id)**.
+- 🎓 Currently serving as a mentor of **[IBM Academy: Advanced AI](https://github.com/ibmacademy-aai)** @ **[Infinite Learning](https://infinitelearning.id)**.
 
 - 🐧 Certified Linux Administrator:
   - Certification: RHEL (RHCSA)
