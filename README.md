@@ -74,12 +74,14 @@ src="https://img.shields.io/github/followers/arifian853?logo=github&style=for-th
 </p>
 
 <h2 align="center">GitHub Stats</h2>
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arifian853&show_icons=true&theme=tokyonight" alt="github stats" width="50%" align="left"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifian853&theme=dark" width="50%" align="left">
-</p>
-<p align="center">
+</div>
+<div align="center">
   <a href="https://github.com/arifian853" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifian853&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
+</div>
+
+![readmebox](https://raw.githubusercontent.com/arifian853/arifian853/refs/heads/main/readmebox.svg)
 
 <h3 align="center">Thanks for visiting!</h3>
