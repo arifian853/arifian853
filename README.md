@@ -9,10 +9,10 @@
   - Back-end: NodeJS, Flask
 
 - 🤖 Proficient in AI Development:
-  - Frameworks: Keras, TensorFlow
+  - Frameworks: TensorFlow, Keras, Sci-Kit, PyTorch
   - Language: Python
 
-- 🎓 Currently serving as a mentor of **[IBM Academy: Advanced AI](https://github.com/ibmacademy-aai)** @ **[Infinite Learning](https://infinitelearning.id)**.
+- 🎓 Currently serving as a **Head of AI Development Program** @ **[Infinite Learning](https://infinitelearning.id)** as a Technical Mentor.
 
 - 🐧 Certified Linux Administrator:
   - Certification: RHEL (RHCSA)
