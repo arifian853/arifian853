@@ -1,4 +1,4 @@
-<img src="banner-2025-1.png"  alt="Profile Banner"  />
+<img src="banner-2025-2.png"  alt="Profile Banner"  />
 
 <h2 align="center">About</h2>
 
