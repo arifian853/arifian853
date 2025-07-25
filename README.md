@@ -14,10 +14,6 @@
 
 - 🎓 Currently serving as a **Head of AI Development Program** @ **[Infinite Learning](https://infinitelearning.id)** as a Technical Mentor.
 
-- 🐧 Certified Linux Administrator:
-  - Certification: RHEL (RHCSA)
-  - Former Certified Instructor for Red Hat at **IBM Academy: Hybrid Cloud & AI** @ **Infinite Learning**, teaching and mentoring in advanced Linux administration.
-
 
 <h2 align="center">Tech Stack</h2>
 <p align="center">
