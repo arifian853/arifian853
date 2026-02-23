@@ -58,6 +58,7 @@ Computer Science Graduate (2024) · AI Development · Technical Mentor
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifian853&theme=dark&hide_border=true" width="48%"/>
 </p>
+
 ---
 
 <p align="center">Thanks for visiting.</p>
