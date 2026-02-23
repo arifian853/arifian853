@@ -56,14 +56,8 @@ Computer Science Graduate (2024) · AI Development · Technical Mentor
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arifian853&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arifian853&theme=dark&hide_border=true" width="48%"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifian853&layout=compact&hide_border=true&theme=tokyonight" width="48%"/>
-</p>
-
 ---
 
 <p align="center">Thanks for visiting.</p>
